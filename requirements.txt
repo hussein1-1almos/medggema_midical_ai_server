@@ -1,0 +1,12 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.9
+pydicom>=3.0
+pillow>=10.4
+numpy>=1.26
+torch>=2.6
+transformers>=4.57
+accelerate>=1.2
+safetensors>=0.4
+huggingface_hub[cli]>=0.27
+python-dotenv>=1.0
